@@ -13,7 +13,7 @@ Aspiring Node.js Backend Developer, currently building projects to strengthen my
 - **[E-commerce Backend] (https://github.com/gauravkazi/e-commerce-backend-)**  
   REST API with JWT authentication, product catalog, cart management, order processing, and Stripe payment integration.
 
-- **[Student Management System](https://github.com/gauravkazi/YOUR_REPO_NAME_HERE)**  
+- **[Student Management System](https://github.com/gauravkazi/student-management-system)**  
   A backend system for managing student records with CRUD operations.
 
 - **[JWT Authentication API](https://github.com/gauravkazi/YOUR_REPO_NAME_HERE)**  
