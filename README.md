@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**gauravkazi/gauravkazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Node.js Backend Developer, currently building projects to strengthen my backend and API development skills.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, Postman, Stripe API, JWT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+- **[E-commerce Backend](https://github.com/gauravkazi/ecommerce-backend)**  
+  REST API with JWT authentication, product catalog, cart management, order processing, and Stripe payment integration.
+
+- **[Student Management System](https://github.com/gauravkazi/YOUR_REPO_NAME_HERE)**  
+  A backend system for managing student records with CRUD operations.
+
+- **[JWT Authentication API](https://github.com/gauravkazi/YOUR_REPO_NAME_HERE)**  
+  Standalone authentication API implementing JWT-based login, registration, and protected routes.
+
+## 📫 Reach Me
+- Email: gauravkazi7@gmail.com
+- LinkedIn: linkedin.com/in/gaurav-thapa-5354b4395
