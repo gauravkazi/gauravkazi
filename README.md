@@ -16,7 +16,7 @@ Aspiring Node.js Backend Developer, currently building projects to strengthen my
 - **[Student Management System](https://github.com/gauravkazi/student-management-system)**  
   A backend system for managing student records with CRUD operations.
 
-- **[JWT Authentication API](https://github.com/gauravkazi/YOUR_REPO_NAME_HERE)**  
+- **[JWT Authentication API](https://github.com/gauravkazi/JWT-Authentication-API)**  
   Standalone authentication API implementing JWT-based login, registration, and protected routes.
 
 ## 📫 Reach Me
